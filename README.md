@@ -6,5 +6,4 @@
 - 🚀 Always learning new technologies
 
 ## 📫 Let's connect
-- 📧 judegilligan@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/jude-gilligan/)
