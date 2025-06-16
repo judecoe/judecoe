@@ -82,7 +82,3 @@ technical_background:
 <a href="https://www.linkedin.com/in/jude-gilligan/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45" />
 </a>
-
-#
-
-![Snake animation](https://github.com/judecoe/judecoe/blob/output/github-contribution-grid-snake.svg)
