@@ -24,7 +24,7 @@ technical_background:
 ]
 ```
 
-## ⚙️ Tools I Have Used
+# ⚙️ Tools I Have Used
 <p align="left">
 
 <!-- LANGUAGES -->
@@ -77,7 +77,7 @@ technical_background:
           
 </p>
   
-## 📫 Let's connect  
+# 📫 Let's connect  
 
 <a href="https://www.linkedin.com/in/jude-gilligan/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45" />
