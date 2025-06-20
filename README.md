@@ -1,14 +1,11 @@
 # 💻 About Me
 
 ```yaml
-name: Jude
+name: "Jude"
 
-location: Pittsburgh
+location: "Pittsburgh"
 
-education:
-[
-  "B.S. Computer Science at the University of Pittsburgh"
-]
+education: "B.S. Computer Science at the University of Pittsburgh"
 
 fields_of_interest:
 [
