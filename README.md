@@ -16,6 +16,7 @@ fields_of_interest:
 
 technical_background:
 [
+  "Software Developer @ DLC",
   "Software Engineer Intern @ DLC",
   "Backend Developer @ FACET Lab"
 ]
